@@ -1,6 +1,6 @@
 certifi==2022.12.7
 chardet==3.0.4
-dnslib==0.9.7
+dnslib==0.9.17
 idna==2.6
 pkginfo==1.4.1
 requests==2.18.4
